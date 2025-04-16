@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+hdmi_monitor_log.json
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Cache files
+.pyc
+
+# นำไฟล์ที่สร้างขึ้นระหว่างการทำงานออก
+*.bak 

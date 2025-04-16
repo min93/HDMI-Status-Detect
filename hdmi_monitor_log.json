@@ -1,0 +1,455 @@
+[
+  {
+    "timestamp": "2025-04-09T21:57:46.342518",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-09T22:00:20.654405",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-09T22:02:35.005138",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-09T22:09:18.700074",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-09T22:10:10.231455",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-09T22:12:33.783430",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T08:57:32.426640",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T08:57:39.816158",
+    "status": {
+      "hdmi_connected": true,
+      "hdmi_active": true,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        },
+        {
+          "instance_name": "DISPLAY\\SAM0D20\\4&29cf2fd4&0&UID4145_0",
+          "connection_type": 5,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "NORMAL"
+  },
+  {
+    "timestamp": "2025-04-10T08:58:22.955847",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T12:37:47.420064",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T12:56:18.976246",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T13:59:14.315330",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T14:01:35.888417",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T14:04:43.441224",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      }
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T15:18:37.489272",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true,
+          "status": "normal"
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "driver_status": "normal",
+          "driver_date": "20240221000000.000000-000",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      },
+      "driver_check_time": "2025-04-10T15:18:37.014209"
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-10T15:21:32.386419",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true,
+          "status": "normal"
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "driver_status": "normal",
+          "driver_date": "20240221000000.000000-000",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      },
+      "driver_check_time": "2025-04-10T15:21:31.875570"
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-16T13:22:27.277514",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true,
+          "status": "normal"
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "driver_status": "normal",
+          "driver_date": "20240221000000.000000-000",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      },
+      "driver_check_time": "2025-04-16T13:22:26.957221"
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  },
+  {
+    "timestamp": "2025-04-16T13:24:23.722926",
+    "status": {
+      "hdmi_connected": false,
+      "hdmi_active": false,
+      "hdmi_devices": [
+        {
+          "instance_name": "DISPLAY\\BOE08DD\\4&29cf2fd4&0&UID8388688_0",
+          "connection_type": -2147483648,
+          "active": true,
+          "status": "normal"
+        }
+      ],
+      "gpu_status": {
+        "gpu_0": {
+          "name": "Intel(R) Iris(R) Xe Graphics",
+          "status": "OK",
+          "error_code": 0,
+          "driver_version": "31.0.101.5333",
+          "driver_status": "normal",
+          "driver_date": "20240221000000.000000-000",
+          "error_description": "อุปกรณ์ทำงานปกติ"
+        }
+      },
+      "driver_check_time": "2025-04-16T13:24:23.405047"
+    },
+    "event_type": "HDMI_DISCONNECTED"
+  }
+]
